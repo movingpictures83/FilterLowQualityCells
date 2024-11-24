@@ -1,0 +1,2 @@
+Prefix plugins/FilterLowQualityCells/example/
+Plugin FilterLowQualityCells inputfile parameters.filterLQ.txt outputfile filtered.rds
